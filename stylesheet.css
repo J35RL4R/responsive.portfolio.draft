@@ -60,3 +60,6 @@ input[type=text], select, textarea {
   input[type=submit]:hover {
     background-color: lightblue;
   }
+  .fab, .fas {
+    color: black;
+  }
